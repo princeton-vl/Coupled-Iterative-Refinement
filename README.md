@@ -14,7 +14,7 @@ Lahav Lipson, Zachary Teed, Ankit Goyal and Jia Deng<br/>
   year={2022},
 }
 ```
-<img src="https://media.giphy.com/media/GXkulebBFhMT9W6on8/giphy.gif" alt="drawing" style="width:300px;"/> <img src="https://media.giphy.com/media/EAc3fF5X8Sk0UB2leE/giphy.gif" alt="drawing" style="width:300px;"/> <img src="https://media.giphy.com/media/QySwVjQlF6TQ3IP926/giphy.gif" alt="drawing" style="width:300px;"/>
+<img src="https://media.giphy.com/media/GXkulebBFhMT9W6on8/giphy.gif" alt="drawing" style="width:250px;"/> <img src="https://media.giphy.com/media/EAc3fF5X8Sk0UB2leE/giphy.gif" alt="drawing" style="width:250px;"/> <img src="https://media.giphy.com/media/QySwVjQlF6TQ3IP926/giphy.gif" alt="drawing" style="width:250px;"/>
 
 ## Getting Started
 1. Clone the repo using the `--recursive` flag
