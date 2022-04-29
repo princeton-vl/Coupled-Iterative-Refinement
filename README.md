@@ -2,12 +2,10 @@
 # Coupled Iterative Refinement
 This repository contains the source code for our paper:
 
-Coupled Iterative Refinement for 6D Multi-Object Pose Estimation
+[Coupled Iterative Refinement for 6D Multi-Object Pose Estimation](https://arxiv.org/abs/2204.12516)
 <br/>
 CVPR 2022 <br/>
 Lahav Lipson, Zachary Teed, Ankit Goyal and Jia Deng<br/>
-
-Coming soon on April 28th: link to arxiv and bibtex
 
 ## Getting Started
 1. Clone the repo using the `--recursive` flag
