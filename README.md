@@ -6,6 +6,14 @@ This repository contains the source code for our paper:
 <br/>
 CVPR 2022 <br/>
 Lahav Lipson, Zachary Teed, Ankit Goyal and Jia Deng<br/>
+```
+@inproceedings{lipson2022coupled,
+  title={Coupled Iterative Refinement for 6D Multi-Object Pose Estimation},
+  author={Lipson, Lahav and Teed, Zachary and Goyal, Ankit and Deng, Jia},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022},
+}
+```
 
 ## Getting Started
 1. Clone the repo using the `--recursive` flag
