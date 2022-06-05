@@ -6,6 +6,7 @@ This repository contains the source code for our paper:
 <br/>
 CVPR 2022 <br/>
 Lahav Lipson, Zachary Teed, Ankit Goyal and Jia Deng<br/>
+[Poster](https://www.lahavlipson.com/files/cir_poster.pdf) / [Video](https://www.youtube.com/watch?v=o5NeMns3tcA) 
 ```
 @inproceedings{lipson2022coupled,
   title={Coupled Iterative Refinement for 6D Multi-Object Pose Estimation},
