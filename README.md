@@ -1,5 +1,5 @@
 
-# Coupled Iterative Refinement
+# Coupled Iterative Refinement for 6D Multi-Object Pose Estimation
 This repository contains the source code for our paper:
 
 [Coupled Iterative Refinement for 6D Multi-Object Pose Estimation](https://arxiv.org/abs/2204.12516)
@@ -15,6 +15,8 @@ Lahav Lipson, Zachary Teed, Ankit Goyal and Jia Deng<br/>
   year={2022},
 }
 ```
+<img src="https://www.lahavlipson.com/files/cir_update.png"/>
+
 <img src="https://media.giphy.com/media/GXkulebBFhMT9W6on8/giphy.gif" alt="drawing" style="width:250px;"/> <img src="https://media.giphy.com/media/EAc3fF5X8Sk0UB2leE/giphy.gif" alt="drawing" style="width:250px;"/> <img src="https://media.giphy.com/media/QySwVjQlF6TQ3IP926/giphy.gif" alt="drawing" style="width:250px;"/>
 
 ## Getting Started
